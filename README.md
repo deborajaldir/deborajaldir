@@ -1,59 +1,53 @@
-<h2 align="center">🌷 Olá! Eu sou a <strong>Débora Jaldir</strong> 🌷</h2>
+<h2 align="center">Débora Jaldir</h2>
 <p align="center">
-💻 Desenvolvedora Full Stack Júnior
+💻 Desenvolvedora Full Stack Júnior | Java, Spring Boot, React, JavaScript
+</p>
 
 ---
 
-### 🌸 Sobre mim
+## 🚀 Sobre mim
 
-Sou uma desenvolvedora em transição de carreira, apaixonada por **tecnologia, design e aprendizado constante**.  
-Tenho background em gestão e varejo, e hoje busco unir **organização + lógica + criatividade** no desenvolvimento web.  
+Desenvolvedora Full Stack Júnior em transição de carreira, com experiência prática em desenvolvimento de aplicações web utilizando **Java, Spring Boot, React e PostgreSQL**.
 
-Gosto de criar projetos que transmitam **leveza visual e código limpo**, valorizando a experiência do usuário e a clareza na estrutura.  
-Atualmente, estou aprimorando minhas habilidades em **React**, **Node.js** e **testes automatizados**.
+Tenho experiência com construção de **APIs REST**, integração entre front-end e back-end e organização de código em camadas.  
+Também possuo vivência na gestão de negócio próprio, com foco em **controle de estoque, análise de dados e resolução de problemas**.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
-**Front-end:** HTML • CSS • JavaScript (ES6+) • React  
-**Back-end:** Node.js • Express  
-**Banco de Dados:** PostgreSQL  
+**Back-end:** Java • Spring Boot • Node.js • Express  
+**Front-end:** React • JavaScript • HTML • CSS  
+**Banco de dados:** PostgreSQL  
 **Testes:** Vitest • Jest  
-**Outros:** Git • GitHub • APIs REST • Docker
+**Outros:** Git • Docker • APIs REST  
 
 ---
 
-### 🌼 Projetos
+## 📦 Projeto em destaque
 
-✨ **Em destaque:**  
-Desenvolvo aplicações completas, do front ao back-end, com foco em usabilidade, desempenho e boas práticas de código.  
+### Sistema de Controle de Estoque
 
-🧁 Projetos atuais:
-- Interface interativa em React com busca e filtros
-- API REST com Node.js + PostgreSQL
+Aplicação full stack com API REST desenvolvida em **Java + Spring Boot** e interface em **React**.
+
+- CRUD de produtos  
+- Integração com banco de dados PostgreSQL  
+- Estrutura em camadas (Controller, Service, Repository)  
+- Validações e tratamento de erros  
+
+🔗 [Ver projeto](https://github.com/deborajaldir/stock-control)
+
+---
+
+## 📁 Outros projetos
+
+- Pokédex com React (consumo de API e filtros)
 - Testes automatizados com Vitest e Jest
 
-> *Meus projetos estão disponíveis nos repositórios aqui do perfil.*
-
 ---
 
-### 🌱 Aprendizados recentes
+## 📫 Contato
 
-- React avançado (hooks customizados e performance)
-- Integração entre front e back-end
-- Testes de integração com Vitest
-- Melhores práticas de versionamento no Git
-
----
-
-
-### 🤝 Vamos nos conectar!
-
-📫 **Email:** [deborajaldir@gmail.com](mailto:deborajaldir@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/deborajaldir](https://linkedin.com/in/deborajaldir)  
-🐙 **GitHub:** [github.com/deborajaldir](https://github.com/deborajaldir)
-
----
-
-<p align="center">✨ <em>“A tecnologia é a ponte entre criatividade e solução.”</em> ✨</p>
+📧 deborajaldir@gmail.com  
+💼 https://linkedin.com/in/deborajaldir  
+🐙 https://github.com/deborajaldir  
